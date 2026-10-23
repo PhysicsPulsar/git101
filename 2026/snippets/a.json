@@ -1,1 +1,8 @@
-affaf
+{
+  "slug": "javiramos",
+  "author": "Javier",
+  "title": "Buenas",
+  "language": "gdscript",
+  "code": "get_tree().quit()",
+  "description": "cerrar todo"
+}
